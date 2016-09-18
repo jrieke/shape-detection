@@ -1,4 +1,4 @@
-# shape-recognition
+# shape-detection
 
 This is an example of object detection with neural networks (implemented with [keras](https://keras.io/)). The training images contain abstract geometric shapes and can be easily bootstraped. 
 
