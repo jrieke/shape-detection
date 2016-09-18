@@ -1,6 +1,6 @@
 # shape-recognition
 
-This is an example of object detection with neural networks (implemented with Python + keras). The training images contain abstract geometric shapes and can be easily bootstraped. 
+This is an example of object detection with neural networks (implemented with [keras](https://keras.io/)). The training images contain abstract geometric shapes and can be easily bootstraped. 
 
 The code is split up into several Jupyter notebooks. They increase in complexity:
 
@@ -12,9 +12,4 @@ The code is split up into several Jupyter notebooks. They increase in complexity
 ![](plots/bw-single-rectangle_prediction.png)
 
 
-## Requirements
-
-* Python 2.7 (with numpy, matplotlib, jupyter)
-* keras
-* Theano or Tensorflow
-* pycairo (for color-multiple-shapes)
+**Requirements**: Python 2.7, keras (v1.0.5), theano or tensorflow, numpy, matplotlib, jupyter, pycairo (only for color-multiple-shapes.ipynb)
