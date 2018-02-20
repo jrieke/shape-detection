@@ -1,5 +1,7 @@
 # shape-detection
 
+**Read my [Medium post](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491) on this project**
+
 This is an example of object detection with neural networks (implemented with [keras](https://keras.io/)). The training images contain abstract geometric shapes and can be easily bootstraped. 
 
 The code is split up into several Jupyter notebooks. They increase in complexity:
